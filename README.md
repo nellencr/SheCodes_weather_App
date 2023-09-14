@@ -2,7 +2,7 @@
 
 
 ## Link
- [Portfolio link](https://she-codes-weather-app-tau.vercel.app/)
+ [App link](https://she-codes-weather-app-tau.vercel.app/)
 
 
 👤 **AUTHOR**
